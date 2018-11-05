@@ -1,11 +1,11 @@
 {
-  "name": "my-little-project",
+  "name": "my-little-project-fun",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "16.5.2",
+    "react": "16.6.0",
     "react-dom": "16.5.2",
     "react-scripts": "2.0.3"
   },
