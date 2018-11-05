@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <h1>Hello CodeSandbox Whats up my man!!!!</h1>
       <h2>Start editing to see some magic happen!</h2>
-      Love ya! ❤️
+      Love ya! ❤️ my love
     </div>
   );
 }
